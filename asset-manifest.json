@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "manuelgarciaf.xyz/static/css/main.b100e6da.chunk.css",
+    "main.js": "manuelgarciaf.xyz/static/js/main.79d3e826.chunk.js",
+    "main.js.map": "manuelgarciaf.xyz/static/js/main.79d3e826.chunk.js.map",
+    "runtime-main.js": "manuelgarciaf.xyz/static/js/runtime-main.16a47caf.js",
+    "runtime-main.js.map": "manuelgarciaf.xyz/static/js/runtime-main.16a47caf.js.map",
+    "static/js/2.033ff4dc.chunk.js": "manuelgarciaf.xyz/static/js/2.033ff4dc.chunk.js",
+    "static/js/2.033ff4dc.chunk.js.map": "manuelgarciaf.xyz/static/js/2.033ff4dc.chunk.js.map",
+    "index.html": "manuelgarciaf.xyz/index.html",
+    "precache-manifest.17e86929ba9c59859b30f2378007fc61.js": "manuelgarciaf.xyz/precache-manifest.17e86929ba9c59859b30f2378007fc61.js",
+    "service-worker.js": "manuelgarciaf.xyz/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "manuelgarciaf.xyz/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "manuelgarciaf.xyz/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16a47caf.js",
+    "static/js/2.033ff4dc.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.79d3e826.chunk.js"
+  ]
+}
